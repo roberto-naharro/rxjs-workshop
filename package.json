@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roberto Naharro",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "rxjs": "^7.8.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "launch": "ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.3"
+  }
+}
