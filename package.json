@@ -5,7 +5,7 @@
   "author": "Roberto Naharro",
   "license": "MIT",
   "dependencies": {
-    "@faker-js/faker": "^7.6.0",
+    "@faker-js/faker": "^8.2.0",
     "rxjs": "^7.8.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
